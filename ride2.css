@@ -1,0 +1,10 @@
+.ride2{
+    position:absolute;
+    top:67.5%;
+    left:26.1%;
+    width: 150px;
+    height: 65px;
+    background-color: #3e3e3e;
+    border-color: #fff;
+    z-index:1;
+}
